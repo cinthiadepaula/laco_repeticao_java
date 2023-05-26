@@ -1,7 +1,7 @@
 package laco_condicional;
 
 import java.util.Scanner;
-public class exercicio6 {
+public class Exercicio6 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
